@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Laborator 1</string>
+    <string name="ionel_cristian">Ionel Cristian</string>
+    <string name="notificare">Notificare</string>
+    <string name="radiobutton">Back camera</string>
+    <string name="radiobutton1">Front Camera</string>
+    <string name="write">Write</string>
+    <string name="search">Search</string>
+    <string name="search_on_google">Search on Google</string>
+    <string name="open">Open</string>
+    <string name="close_app">Close App</string>
+    <string name="todo">TODO</string>
+    <string name="open_snackbar">Open Snackbar</string>
+</resources>
